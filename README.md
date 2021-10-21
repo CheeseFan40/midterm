@@ -5,10 +5,10 @@ There are many things I've done this semster here's a list of some of them
 * SVG creation
 
 <body>This is my midterm project
-
+ Go <a href = https://github.com/bigal2021/midterm/blob/main/aboutme.md> here</a> to learn more about me
  
- 
-to see my **FizzBuzz** program in java script. Click <a href = https://github.com/bigal2021/midterm/blob/main/FizzBuzz%20in%20javascript>here</a> </body>
+to see my **FizzBuzz** program in java script. Click <a href = https://github.com/bigal2021/midterm/blob/main/FizzBuzz%20in%20javascript>here</a> 
+</body>
 
 
 <body>
