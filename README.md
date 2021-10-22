@@ -19,7 +19,8 @@ to see my **FizzBuzz** program in java script. Click <a href = https://github.co
 Also Heres a _cool_ thing I made in svg
 <a href =https://htmlpreview.github.io/?https://github.com/bigal2021/midterm/blob/main/squirtlesquad5.html>Link</a>
 
-<body>something <a href = https://github.com/bigal2021/midterm/blob/main/interesting.md>interesting</a>
-<p>Another interesting <a href = https://github.com/bigal2021/midterm/blob/main/another%20interesting%20fact.md>fact</a></p>
-<p>last markdown <a href = https://github.com/bigal2021/midterm/blob/main/IranOutofIdeas.md>page</a></p>
+<body>
+something <a href = https://github.com/bigal2021/midterm/blob/main/interesting.md>interesting</a><br>
+Another interesting <a href = https://github.com/bigal2021/midterm/blob/main/another%20interesting%20fact.md>fact</a><br>
+last markdown <a href = https://github.com/bigal2021/midterm/blob/main/IranOutofIdeas.md>page</a>
 </body>
